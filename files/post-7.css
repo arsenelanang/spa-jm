@@ -21,7 +21,8 @@
     .elementor-element.elementor-element-212a826
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-color: #0e8e00;
+    /* background-color: #0e8e00; */
+    background-color: #080808;
     /* background-image: url("https://trulyhomespa.com/wp-content/uploads/2024/04/IMG_1115.png"); */
     background-position: center center;
     background-size: cover;
